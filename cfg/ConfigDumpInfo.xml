@@ -65,7 +65,10 @@
 		</Metadata>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="7d14619140ca0a47ac0b694bd643028900000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="de624d7da1254a41998841ff7e42c15500000000"/>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="4e964600-e49a-4779-bea2-5ca161bdee00" configVersion="4187d6adf1df434cb38745c60a0f13a400000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="4e964600-e49a-4779-bea2-5ca161bdee00" configVersion="d93808ac32d45e47a26a1d761d1197bd00000000">
+			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.Коэффициент" id="2232c0a1-1cd5-4326-b755-05781859abbf"/>
+			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.БазоваяЕдиницаИзмерения" id="b4d427da-46ad-48f9-904e-45bd1fc914ff"/>
+		</Metadata>
 		<Metadata name="Catalog.ЗначенияХарактеристик" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6" configVersion="bc480b46a3398843ac8a8cee6951b20f00000000"/>
 		<Metadata name="Catalog.ЗначенияХарактеристик.Help" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6.1" configVersion="b1df776e9d0baa40853b64448a7fbe3200000000"/>
 		<Metadata name="Catalog.ИсходящиеПисьма" id="4bcaf0cb-e55d-41e9-915e-84689b3fb76c" configVersion="b32922999741fd4db97a753317c1cb7400000000">
